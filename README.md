@@ -257,6 +257,7 @@ List of all Virtual Private Server <sup>[1](#status)</sup>
 | [Akamai Cloud][linode-ref] ✅                     | [Nanode 1GB][linode-ref] (5 \$/m)                                             | $100 credit        | No                    |                  |
 | [Rackgenius](https://rackgenius.com)              | [2GB Value KVM VPS](https://rackgenius.com/vps) (5 \$/m)                      | No                 | No                    |                  |
 | [SSD Nodes](https://www.ssdnodes.com) ⛔️          | [KVM / Small](https://www.ssdnodes.com/pricing) (5 \$/m)                      | 14-day refund only | No                    |                  |
+| [Galaxy Cloud Solutions](https://galaxycloudsolutions.com) | [Nebula 1](https://galaxycloudsolutions.com/order/nebula-1) (5 \$/m) | No | No | |
 | [RX-NAME](https://rx-name.net)                    | [VM-1Gs](https://rx-name.net/vps) (5.08 \$/m)                                 | 14-day             |                       |                  |
 | [Contabo](https://contabo.com/en/vps)             | [See pricing](https://contabo.com/en/pricing) (€ 4.40/m)                      | No                 | No                    |                  |
 | [Serverspace](https://serverspace.io)             | [vStack](https://serverspace.io/pricing) (€ 4.63/m)                           | No                 | No                    |                  |
